@@ -4,7 +4,7 @@ simple project php (wihtout POO just for the request at my database, i use  the 
 
 
 #HOME
-<img src="picturegithub/home.PNG" />
+<img src="/picturegithub/home.PNG" />
 
 
 
