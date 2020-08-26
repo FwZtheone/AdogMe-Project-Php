@@ -16,4 +16,8 @@ simple project php (wihtout POO just for the request at my database, i use  the 
 <img src="picturegithub/contact.png" />
 
 
+#CRUD USER,DOG
+there are options for update the fields of user,dog but there is a little bug with the database name with my request PDO, i dont have the time for resolve this bug now,maybe later i resolve this. 
+
+
 
