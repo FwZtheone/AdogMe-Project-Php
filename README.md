@@ -4,7 +4,16 @@ simple project php (wihtout POO just for the request at my database, i use  the 
 
 
 #HOME
-<img src="/picturegithub/home.PNG" />
+<img src="picturegithub/home.png" />
+
+
+
+#CONNECTION
+<img src="picturegithub/connection.png" />
+
+
+#CONTACT
+<img src="picturegithub/contact.png" />
 
 
 
