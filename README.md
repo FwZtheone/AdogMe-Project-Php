@@ -4,7 +4,7 @@ simple project php (wihtout POO just for the request at my database, i use  the 
 
 
 #HOME
-![alt text](http://AdogMe-Project-Php/picturegithub/home.png)
+<img src="picturegithub/home.PNG" />
 
 
 
